@@ -4,7 +4,7 @@
 - 💞️ It is pretty cool though...
 - 📫 ...but completely uninformative
 
-Sorry you had to read this. I'm just a Sisu intern.
+Sorry ¯\_(ツ)_/¯
 
 <!---
 oleg-golev/oleg-golev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
